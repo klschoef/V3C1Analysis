@@ -8,3 +8,7 @@ Data agreement form: http://www-itec.aau.at/~klschoef/VBS2019/V3C_Org.Form.txt
 
 ## Analysis-data Download
 We will upload our analysis data for the V3C1 dataset soon here (in the next few days). Please stay tuned.
+
+
+## Attribution
+The analysis data was provided by Klaus Schoeffmann <ks@itec.aau.at> (Klagenfurt University) and Luca Rossetto <luca.rossetto@unibas.ch> (University of Basel).
