@@ -10,4 +10,4 @@ Data agreement form: http://www-itec.aau.at/~klschoef/VBS2019/V3C_Org.Form.txt
 If you have more analysis data for the V3C-1 dataset, please consider contributing to this repository and thereby enabling other researchers an easy entry into video retrieval with this dataset.
 
 ## Attribution
-The analysis data was provided by Klaus Schoeffmann <ks@itec.aau.at> (Klagenfurt University) and Luca Rossetto <luca.rossetto@unibas.ch> (University of Basel).
+The analysis data was provided by [Klaus Schoeffmann](<https://KlausSchoeffmann.com>) <ks@itec.aau.at> (Klagenfurt University) and Luca Rossetto <luca.rossetto@unibas.ch> (University of Basel).
